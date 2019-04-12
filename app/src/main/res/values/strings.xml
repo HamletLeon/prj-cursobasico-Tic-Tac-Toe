@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe - Android Basico</string>
+    <string name="short_app_name">Tic Tac Toe</string>
+    <string name="one_player">One Player</string>
+    <string name="two_player">Two Player</string>
+    <string name="language">Language</string>
+    <string name="score_history">Score History</string>
+    <string name="round">Round %d</string>
+</resources>
